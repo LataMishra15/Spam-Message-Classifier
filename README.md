@@ -1,22 +1,31 @@
-# Spam Message Classifier
+# 📩 Spam Message Classifier
 
-A simple spam message classification project using **Python, NLTK, and Machine Learning**.
+A simple **Spam Message Classification** project using **Python, NLTK, and Machine Learning** 🤖✨
 
-## Project Description
+## 📌 Project Description
 
-This project classifies messages as either **Spam** or **Not Spam (Ham)** using Natural Language Processing techniques.
+This project classifies text messages as either **Spam 🚫** or **Not Spam (Ham) ✅** using **Natural Language Processing (NLP)** techniques.
 
-## File
+The goal is to automatically identify unwanted messages and distinguish them from genuine messages. 📱🔍
 
-* `spam_classifier.py` — Python program for spam message classification.
+## 📂 File
 
-## Technologies Used
+* 🐍 `spam_classifier.py` — Python program for spam message classification.
 
-* Python
-* NLTK
-* Machine Learning
-* Natural Language Processing
+## 🛠️ Technologies Used
 
-## Objective
+* 🐍 Python
+* 📚 NLTK
+* 🤖 Machine Learning
+* 🧠 Natural Language Processing (NLP)
 
-The objective of this project is to identify unwanted or spam messages automatically using text classification techniques.
+## 🎯 Objective
+
+The objective of this project is to identify **unwanted or spam messages automatically** using text classification techniques. 🚀
+
+## ✨ Features
+
+* 📩 Takes text messages as input
+* 🔍 Processes text using NLP techniques
+* 🤖 Classifies messages as Spam or Ham
+* ⚡ Simple and beginner-friendly implementation
